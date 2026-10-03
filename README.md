@@ -1,1 +1,3 @@
-# Ohjelmistokehitt-misen-ty-kalut
+# Ohjelmistokehittämisen työkalut
+
+Writing in Markdown is _not_ that hard!
