@@ -43,8 +43,9 @@ Here's some words about the book _One Hundred Years..._.
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
-[a fun place]:www.zombo.com
-[another fun place]:www.stumbleupon.com
+
+[a fun place]: www.zombo.com
+[another fun place]: www.stumbleupon.com
 
 <br>
 
@@ -125,3 +126,20 @@ To doubt they were kneeling then.
 
 2. Pour a gallon of milk into the bowl.  
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
+ <br>
+
+ ## Omalisäys
+
+Tämän projektin aikana olen oppinut, että **Markdown** on **yllättävän helppoa**. Aluksi esimerkiksi linkkien ja kuvien tekeminen tuntui hieman hankalalta, mutta harjoittelun jälkeen niiden syntaksi alkoi tuntua _melko loogiselta_.
+
+Markdownissa pidän erityisesti siitä, että teksti pysyy selkeänä myös ilman esikatselua. Pääsin myös muistelemaan [GitHubin](https://github.com/) käyttöä pitkästä aikaa.
+
+### Mitä opin?
+* Markdownin perusteet
+* Otsikoiden ja listojen tekemisen
+* Linkkien ja kuvien lisäämisen
+
+
+
+Kaiken kaikkiaan Markdown oli **hyvä ja hyödyllinen taito oppia**, ja uskon käyttäväni sitä myös tulevissa projekteissa.
